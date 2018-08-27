@@ -1,8 +1,9 @@
 package Solutions;
 
-/**
- *
- * @author ucanb
+/*
+    My quick solution to the problem described here:
+    https://www.youtube.com/watch?v=uQdy914JRKQ
+
  */
 public class P001 {
 
